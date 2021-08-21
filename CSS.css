@@ -1,5 +1,10 @@
+html{
+  background: rgb(10,192,199);
+  background: linear-gradient(90deg, rgba(10,192,199,1) 22%, rgba(51,76,198,1) 46%, rgba(65,22,173,1) 72%); 
+}
+
 a:link{
-    color: #7422d1  ;
+    color: #0000CD;
     background-color: transparent;
     text-decoration: none;
   }
