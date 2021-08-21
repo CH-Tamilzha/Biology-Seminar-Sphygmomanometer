@@ -1,10 +1,10 @@
 # Biology Seminar - The working of a Sphygmomanometer - Video
 
-[Click here to see the video](index.html)
+[Click here to see the video](https://ch-tamilzha.github.io/Biology-Seminar-Sphygmomanometer-Video/)
 
 This is a edited video combining two videos from youtube.
 
-### ***Note: The video above is trimmed and edited by me by comibining and trimming two videos, you  can see the original videos by visiting the links below.***
+### ***Note: The video is trimmed and edited by me by comibining and trimming two videos, you  can see the original videos by visiting the links below.***
 
 Here are the links for the actual non edited videos on youtube:
 
